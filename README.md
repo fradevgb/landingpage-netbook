@@ -1,5 +1,5 @@
 # Landingpage-netbook
-Landing Page Using HTML CSS JAVASCRIPT
+Landing Page Using HTML CSS
 
 # Resource
 
